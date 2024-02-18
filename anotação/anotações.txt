@@ -1,0 +1,5 @@
+"resolveJsonModule": true,
+"allowSyntheticDefaultImports": true,
+
+ //Colocar dentro do arquivo tsconfig.json, para que ele possa ler arquivo
+  json, sempre importar não vem, quando se vai trabalhar com banco de dados
